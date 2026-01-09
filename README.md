@@ -1,7 +1,7 @@
 # Excel VBA Calculator
 **Automating Repetitive Engineering Calculations in Excel**
 
-![Excel VBA Calculator](https://raw.githubusercontent.com/FaisalAEng/portfolio-website/main/assets/images/projects/excel_vba_calculator.PNG)
+![Excel VBA Calculator](https://raw.githubusercontent.com/FaisalAEng/portfolio-website/refs/heads/main/assets/images/projects/excel_vba_calculator.png)
 
 ## Project Overview
 This project involved developing an Excel-based calculator using VBA to automate repetitive engineering calculations. The goal was to reduce manual computation time, improve accuracy, and provide a user-friendly interface for performing multi-step calculations commonly required in engineering workflows.
